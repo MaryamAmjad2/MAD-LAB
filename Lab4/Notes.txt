@@ -1,0 +1,40 @@
+Outline:
+1> privated and protected in JS.    ( Use #/_ in start)
+2> get set methods
+
+child will be instance of parent 
+(child instanceOf parent)     //returns true
+
+
+Array Methods:
+if acccessed out of bound toh error ni hota "Undefined" hota ha
+
+
+foreach
+forin  : Used when we want to iterate object     *
+for of:      *
+push :adds at the end
+pop   :deletes from end
+unshift: add at the start
+shift:  removes from the start
+copyWithin  : same array k andr copy has 3 parameter(start,target,end) *
+entries :array ki index b or vlue b 
+slice :has 2 parameter (start ,end) end include ni hota
+splice :(atindex,no of value,value)
+indexOf  :
+join : Returns Array as String
+some : 
+every: condition check kr k true false deta ha
+Form: String to Array.
+isArray:
+flat :
+
+
+
+
+
+
+
+Q : Time Complexity kis ki kam ha Built in Sort ki yh User defined KI ??????
+
+
